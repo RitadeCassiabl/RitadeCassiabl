@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Rita de Cássia! 👋
 
+### About Me
+- 🌱 I’m currently learning **Full Stack Development**
+  
+### My GitHub Stats
+![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitadeCassiabl&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitadeCassiabl&layout=compact&theme=radical)
 <!--
 **RitadeCassiabl/RitadeCassiabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
